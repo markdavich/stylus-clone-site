@@ -1,0 +1,70 @@
+.main-image {
+  /* background-image: url('http://pi.math.cornell.edu/~lipa/mec/banner.png'); */
+  background-image: url('images/conway.png');
+  background-size: cover;
+  min-height: 46vh;
+}
+
+.ghost {
+  min-width: 108px !important;
+  background-color: rgba(0, 0, 0, 0.459);
+  padding: 10px;
+  border-radius: 20px;
+  color: rgba(255, 255, 255, 0.781);
+  box-shadow: 15px 15px 46px  rgba(0, 0, 0, 0.733);
+}
+
+.bl-radius {
+  border-bottom-left-radius: 25px;
+}
+
+.the-funk {
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.blue {
+  /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b7/SierpinskiTriangle.PNG'); */
+  min-height: 46vh;
+  background-color: rgb(19, 96, 221);
+}
+
+.third-row {
+  min-height: 32vh;
+}
+
+.fourth-row {
+  /* background-image: url('http://pi.math.cornell.edu/~lipa/mec/banner.png'); */
+  background-image: url('images/conway.png');
+  background-size: cover;
+  min-height: 23vh;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.bg-dark {
+  min-height: 8vh;
+  background: linear-gradient(45deg, rgb(26, 24, 24), rgb(68, 68, 68));
+}
+
+.title {
+  color: rgba(255, 255, 255, 0.76) !important;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: rgb(0, 0, 0) 0px 0 5px;
+}
+
+/* a {
+  /* color: rgba(14, 14, 14, 0.897) !important; */
+  color: rgba(255, 255, 255, 0.76) !important;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: rgb(0, 0, 0) 0px 0 5px;
+} */
+
